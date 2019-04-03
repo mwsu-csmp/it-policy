@@ -10,29 +10,29 @@ This scope of this policy includes all personnel who have or are responsible for
 ## Guidelines 
 ## General
 * All System-level password (e.g system passwords, root, switch/server login passwords) must be changed at least 60 days.
-* All System-level password must be stored in secured and encrypeted database,
-* All User-level password must be changed atleast every 120 days. 
+* All System-level password must be stored in secured and encrypted database.
+* All User-level password must be changed at least every 120 days. 
 * Password must not be sent via any email messages or any other forms of electronic communication. 
 * In case of password breach is found all the system password must be changed. 
 
 ## Password Construction Requirements 
 * Be a minimum length of 10 characters on all systems. 
-* Password should not incldue such as birthdates, addresses, phone numbers, or names of family members, pets & friends.
+* Password should not include such as birthdates, addresses, phone numbers, or names of family members, pets & friends.
 * Not be the same as the User ID.
 * Not be the same as previous password. 
 * Not be displayed when entered. 
-* No password strings such as 'Password123', 'qwerty12345', 'accd12345'
-* Are some version of “Welcome123” “Password123” “Changeme123”
+* No password strings such as 'Password123', 'qwerty12345', 'accd12345'.
+* Are some version of “Welcome123”, “Password123”, “Changeme123”.
 * Enable the use of multifactor authentication if prompted. 
 * Default password shall be changed immediately on all equipment. 
 
 ## Password Protection Standards
-* Don't reveal a password to any personal 
-* Don't reveal a password in email
-* Don't reveal a password in over the phone conversation 
+* Don't reveal a password to any personal.
+* Don't reveal a password in email.
+* Don't reveal a password in over the phone conversation. 
 * Don't store password on sticky notes or under the desk.
 * Don't user "Remember Password" feature of applications 
-* if someone demands password, refer them to this document to have them contact Information Secuirty Officer 
+* if someone demands password, refer them to this document to have them contact Information Security Officer. 
 * if an account password is suspected to have been compromised, report the incident to Information Security Officer and Change the password immediately. 
 
 ## Warranty
