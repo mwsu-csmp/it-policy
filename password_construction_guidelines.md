@@ -32,15 +32,8 @@ This scope of this policy includes all personnel who have or are responsible for
 * Don't reveal a password in over the phone conversation 
 * Don't store password on sticky notes or under the desk.
 * Don't user "Remember Password" feature of applications 
-
-if someone demands password, refer them to this document to have them contact Information Secuirty Officer 
-if an account password is suspected to have been compromised, report the incident to Information Security Officer and Change the password immediately. 
-
-## Policy Compliance
-## Compliance Measurement
-The Infosec team will verify compliance to this policy through various methods, including but
-not limited to, periodic walk-thrus, video monitoring, business tool reports, internal and external
-audits, and feedback to the policy owner.
+* if someone demands password, refer them to this document to have them contact Information Secuirty Officer 
+* if an account password is suspected to have been compromised, report the incident to Information Security Officer and Change the password immediately. 
 
 ## Warranty
 MWSU makes no warranties of any kind, whether expressed or implied, for the service it is providing. MWSU will not be responsible for any damage’s users suffer. This includes loss of data resulting from delays, non-deliveries, mis-deliveries, or service interruptions caused by negligence, errors, or omissions. Use of any information obtained via the Internet is at users’ own risk. MWSU denies any responsibility for the accuracy or quality of information obtained through its services.
