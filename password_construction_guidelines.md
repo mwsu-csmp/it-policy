@@ -9,7 +9,7 @@ This scope of this policy includes all personnel who have or are responsible for
 
 ## Guidelines 
 ## General
-* All System-level password (e.g system passwords, root, switch/server login passwords) must be changed at least 60 days.
+* All System-level password (e.g. system passwords, root, switch/server login passwords) must be changed at least 60 days.
 * All System-level password must be stored in secured and encrypted database.
 * All User-level password must be changed at least every 120 days. 
 * Password must not be sent via any email messages or any other forms of electronic communication. 
@@ -21,7 +21,7 @@ This scope of this policy includes all personnel who have or are responsible for
 * Not be the same as the User ID.
 * Not be the same as previous password. 
 * Not be displayed when entered. 
-* No password strings such as 'Password123', 'qwerty12345', 'accd12345'.
+* No password strings such as 'Password123', 'qwerty12345', 'abcd12345'.
 * Are some version of “Welcome123”, “Password123”, “Changeme123”.
 * Enable the use of multifactor authentication if prompted. 
 * Default password shall be changed immediately on all equipment. 
