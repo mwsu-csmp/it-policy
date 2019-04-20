@@ -1,7 +1,7 @@
 # Software Installation Policy
 
 ## Overview
-Allowing employees to install software on company computing devices opens the organization
+Allowing employees and students to install software on company computing devices opens the organization
 up to unnecessary exposure. Conflicting file versions or DLLs which can prevent programs
 from running, the introduction of malware from infected installation software, unlicensed
 software which could be discovered during audit, and programs which can be used to hack the
@@ -10,16 +10,12 @@ install software on company equipment.
 
 ## Purpose
 The purpose of this policy is to outline the requirements around installation software on
-<Company Owned> computing devices. To minimize the risk of loss of program
-functionality, the exposure of sensitive information contained within <Company
-Name’s> computing network, the risk of introducing malware, and the legal exposure
-of running unlicensed software.
+Phonix Lab computing devices. To minimize the risk of loss of program
+functionality, the exposure of sensitive information contained within Missouri Western State University computing network, the risk of introducing malware, and the legal exposure of running unlicensed software.
 
 ## Scope
-This policy applies to all <Company Name> employees, contractors, vendors and agents
-with a <Company Name>-owned mobile devices. This policy covers all computers,
-servers, smartphones, tablets and other computing devices operating within <Company
-Name>.
+This policy applies to all Missouri Western State University employees and students. This policy covers all computers,
+servers and other computing devices operating within Phonix Lab.
 
 ## Policy
 * Employees may not install software on <Company Name’s> computing devices
