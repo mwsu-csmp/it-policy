@@ -44,19 +44,19 @@ software for conflict and compatibility, and perform the installation.
 * The IT Help Desk is responsible for the setup and configuration of all Phonix Lab Systems ((i.e., Network Servers, Research and Training Servers and Desktop Computers).
 ### Root Access/ System Security
 Access to root or administrative privileges on Phonix machines is controlled by the “sudo” command (Macintosh, LINUX and UNIX systems) or by adding users to administrative groups (Windows and Macintosh systems).  Using commands such as “sudo” or assigning users to privileged groups is useful for the following reasons.
-* Privileged access is allowed for the following people:
-•	Faculty staff to perform system administration tasks on all Phonix computers.
-•	All faculty members are allowed to have privileged access on their Personal Computers and Area Research Servers.
-•	The IT Help Desk is responsible for approving requests for privileged access. Faculty and/or staff members responsible for the computer system will agree to the mechanisms and policies governing privileged access.
-* Privileged access requires the following:
-•	On LINUX/UNIX systems do not use the sudo command to run a shell (e.g., “sudo bash”) unless there is no other alternative.  Continue using the “sudo” command if you have started a root shell.
-•	Do not use privileged access to log on to a system as another user unless you have first received permission from the user.
-•	Report system changes to the IT Help Desk.  IT Help Desk will work diligently to restore a user’s system in the event of a system failure; however, if the system has been highly modified and the IT Help Desk was not aware of the changes made to the system, then the only option may be to reinstall the host operating system from the standard system image.
-•	Those persons granted privileged access to work on a Phonix Lab machine must consult with the IT Help Desk before making system level changes.
-•	Do not change the root password on system.
-•	Do not install software or activate system services that are listed on the insecure software.
-•	All systems on which faculty and staff have administrative privileges must maintain a IT Help Desk privileged account.  If the IT Help Desk privileged account is used interactively, the owner of the computer will be contacted by IT Help Desk as soon as possible.  Those using the IT Help Desk privileged accounts will use the sudo command whenever executing privileged commands.  IT Help Desk will consult with the owner of the computer before making major system changes.
-•	All systems on which faculty and staff have administrative privileges may be periodically scanned for insecure software and servicesFailure to follow these guidelines may result in the loss of privileged access and/or the computer being denied access to basic network services (e.g., printing and NFS to the main file server).
+#### Privileged access is allowed for the following people:
+*	Faculty staff to perform system administration tasks on all Phonix computers.
+*	All faculty members are allowed to have privileged access on their Personal Computers and Area Research Servers.
+*	The IT Help Desk is responsible for approving requests for privileged access. Faculty and/or staff members responsible for the computer system will agree to the mechanisms and policies governing privileged access.
+#### Privileged access requires the following:
+*	On LINUX/UNIX systems do not use the sudo command to run a shell (e.g., “sudo bash”) unless there is no other alternative.  Continue using the “sudo” command if you have started a root shell.
+*	Do not use privileged access to log on to a system as another user unless you have first received permission from the user.
+*	Report system changes to the IT Help Desk.  IT Help Desk will work diligently to restore a user’s system in the event of a system failure; however, if the system has been highly modified and the IT Help Desk was not aware of the changes made to the system, then the only option may be to reinstall the host operating system from the standard system image.
+*	Those persons granted privileged access to work on a Phonix Lab machine must consult with the IT Help Desk before making system level changes.
+*	Do not change the root password on system.
+*	Do not install software or activate system services that are listed on the insecure software.
+*	All systems on which faculty and staff have administrative privileges must maintain a IT Help Desk privileged account.  If the IT Help Desk privileged account is used interactively, the owner of the computer will be contacted by IT Help Desk as soon as possible.  Those using the IT Help Desk privileged accounts will use the sudo command whenever executing privileged commands.  IT Help Desk will consult with the owner of the computer before making major system changes.
+*	All systems on which faculty and staff have administrative privileges may be periodically scanned for insecure software and servicesFailure to follow these guidelines may result in the loss of privileged access and/or the computer being denied access to basic network services (e.g., printing and NFS to the main file server).
 
 ## Policy Compliance
 ### Compliance Measurement
