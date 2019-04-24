@@ -73,4 +73,4 @@ including termination of employment.
 * Policies and best practices for tunning system softwares.
 
 ## Definitions and Terms
-* IT Help Desk: Phonix lab is currently managed by Dr. Joseph Kendall-Morwick and Dr. Klassen. The term IT Help desk is referring to them.
+* IT Help Desk: Phonix lab is currently managed by Dr. Joseph Kendall-Morwick and Mr. Greg Lawson The term IT Help desk is referring to them.
