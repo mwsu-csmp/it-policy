@@ -23,9 +23,8 @@ Misssouri Western state University owned and managed labs.
 
 ### CSMP Phoneix Lab Use_Security Policy
 
-##### Limited Access to the Phoneix Computer Lab 
+#### Limited Access to the Phoneix Computer Lab 
 * In order to use the computer lab you must be a current MWSU CSMP student. Access to the computer lab is a privilege and is not transferable to non-csmp students. You may not let your family use the lab for any purpose.
-
 #### Computer Availability and Priority of Use 
 * Computers in back of the lab are available during regular hours on a first-come, first-served basis. Students who require access to this equipment in order to be able to access resources have priority. All decisions as to the use of the computers are at the discretion of the CSMP Faculty and Management.
 #### Copyright and Licensing Restrictions 
