@@ -59,15 +59,12 @@ Access to root or administrative privileges on Phonix machines is controlled by 
 ### Departing staff and students
 * Staff and students who leave the university and who have had university software (and/or data) installed on computers owned by them, must remove all such software and data immediately.
 ## Policy Compliance
-### Compliance Measurement
-The Infosec team will verify compliance to this policy through various methods, including but
-not limited to, periodic walk-thrus, video monitoring, business tool reports, internal and external
-audits, and feedback to the policy owner.
 ### Exceptions
-Any exception to the policy must be approved by the Infosec team in advance.
+Any exception to the policy must be approved by the IT Help Desk team in advance.
 ### Non-Compliance
-An employee found to have violated this policy may be subject to disciplinary action, up to and
+* An employee found to have violated this policy may be subject to disciplinary action, up to and
 including termination of employment.
+* A student found to have violated this policy may be subject to disciplonary action, up to suspension.
 
 ## Related Standards, Policies and Processes
 * Policies and best practices for tunning system softwares.
