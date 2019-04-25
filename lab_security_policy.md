@@ -24,7 +24,7 @@ For more detailed information on current acceptable use guidelines, or to report
 
 * Food, Drink and Tobacco are not allowed in the lab.
 *	Secure your user name and password to prevent unauthorized use of the software/data.
-*	Change passwords as per university policy. Avoid using your name, your family member's name or friend's name or a password that can easily be guessed.
+*	Change passwords as per university policy. Avoid using your name, your family member's name or friend's name or a password that can eaily be guessed.
 *	Do not engage in any activity that is an attempt to gain unauthorized access to privileged areas such as secure networks or crack encryption code.
 *	Users are prohibited from loading any system without approval from the system administrator. All unauthorized software will be deleted.
 * **Protect your security** : Log off the computer before leaving the computer lab. *Do not leave terminals unattended without logging out. If a terminal is found that is not logged out you make user name and password available for unauthorized use. As a result, you are responsible for any damage and loss or data.*
@@ -70,6 +70,6 @@ In addition to the standard anti-virus and anti-spyware clients installed on Ser
 ### Compliance Measurement
 The Infosec team will verify compliance to this policy through various methods, including but not limited to, periodic walk-thrus, video monitoring, business tool reports, internal and external audits, and feedback to the policy owner.
 ### Exceptions
-Any exception to the policy must be approved by the Infosec Team in advance.
+Any exception to the policy must be approved by the *CSMP Faculty and Staff* in advance.
 ### Non-Compliance
 *__Failure to observe lab policies and directions from CSMP staff regarding proper lab use may result in restriction or revocation of computer access, or in termination, academic probation, or prosecution under federal or state law__*
