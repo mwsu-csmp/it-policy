@@ -18,7 +18,7 @@ This policy applies to all students,instructors faculty and other workers at Mis
 * MWSU is committed to privacy and will not routinely inspect the contents of your computer files.
 * MWSU provides uncensored access to materials on the campus network or the Internet unless those materials violate federal or state laws.
 
-For more detailed information on current acceptable use guidelines, or to report a potential violation, view [Acceptable Use Policy] [https://github.com/mwsu-csmp/it-policy/blob/master/Acceptable_Use_policy.md]
+For more detailed information on current acceptable use guidelines, or to report a potential violation, view Acceptable Use Policy [https://github.com/mwsu-csmp/it-policy/blob/master/Acceptable_Use_policy.md]
 
 ### CSMP Phoneix Lab Use_Security Policy
 
