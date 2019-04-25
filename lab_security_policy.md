@@ -41,7 +41,7 @@ For more detailed information on current acceptable use guidelines, or to report
 * The user is responsible for observing all copyright laws. The software and documentation made available in the lab is for use only in the lab and is not to be duplicated for use elsewhere. Duplicating a copyrighted program or documentation is illegal and is an Honor Code violation.Terms of use are governed by individual subscriber agreements for each system.
 
 #### Restriction of Computer Lab Access
-* All Information Technology computer labs are secured by <card-swipe or proximity locks>, as well as scheduled electronic locks, to ensure that only authorized persons are able to enter and use the labs during regularly scheduled hours.
+* All Information Technology computer labs are secured by proximity locks, as well as scheduled electronic locks, to ensure that only authorized persons are able to enter and use the labs during regularly scheduled hours.
 
 #### Physical Security
 All Information Technology computers lab computers and assets are locked down through cabling or other means to enhance physical security. In addition,Phoneix lab is monitored either in person or remotely through security cameras, when possible, equipment is placed to limit access to physical ports on the CPU as well. 
