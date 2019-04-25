@@ -24,7 +24,7 @@ servers and other computing devices operating within Phonix Lab.
 * Unless explicitly authorised, all university software is only for academic or research use, or for the purposes of the university's business and administration, and not for consultancy work. Before using university software for consultancy or other external work, users must contact IT Help Desk to check whether such use is permitted and, if so, what acknowledgements must be included. Similarly university software must not be used by placement students for the benefit of their employers.
 ### Software Requirements
 * It is the responsibility of the requestor to determine if the application will run on the destination computer before purchasing.  The IT Help Desk has resources to help determine if the destination computer has the adequate resources to run the application and can offer suggestions of software for various functions as well.
-### Software installations
+### Software Installations
 * Software must only be installed on university computers or networks if there are the appropriate licences, and if its use is in accordance with its licensing rules. By default end users are prohibited from installing software on university computers - requests for installation must be placed via the IT Service Desk
 * Academic or administrative software applications which will require installation on, or distribution via the university's servers and networks, must not be purchased or acquired without prior technical discussion, evaluation and agreement with IT Help Desk.
 * Software requests must first be approved by the requester’s manager and then be made
