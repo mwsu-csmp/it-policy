@@ -3,9 +3,9 @@
 ## Overview
 Missouri western state university has made a significant investment in computer and communications technology to promote and support the exchange of information, both within the university and between the university and the rest of the world. MWSU Shall not be held liable for the actions of users when those actions are inconsistent with this guideline. The guideline provides best practices for creating secure passwords. 
 ## Purpose
-The purpose of this guidelines is to establish a standard for the creation of strong passwords, the protection of those passwords, and the frequency of change. 
+The purpose of this guidelines is to establish a standard for the creation of strong passwords, the protection of those passwords, and the frequency of changeon Phonix Lab computing devices. 
 ## Scope
-This scope of this policy includes all personnel who have or are responsible for an account (or any form of access that supports or requires a password) on any system that resides at any MWSU facility, has access to MWSU network and services. 
+This scope of this policy includes all personnel who have or are responsible for an account (or any form of access that supports or requires a password) on any system that resides at any MWSU facility, has access to MWSU network and services. To minimize the risk of loss of program functionality, the exposure of sensitive information contained within Missouri Western State University computing network.
 
 ## Guidelines 
 ## General
@@ -32,14 +32,23 @@ This scope of this policy includes all personnel who have or are responsible for
 * Don't reveal a password in over the phone conversation. 
 * Don't store password on sticky notes or under the desk.
 * Don't user "Remember Password" feature of applications 
-* if someone demands password, refer them to this document to have them contact Information Security Officer. 
-* if an account password is suspected to have been compromised, report the incident to Information Security Officer and Change the password immediately. 
+* If someone demands password, refer them to this document to have them contact Information Security Officer. 
+* If an account password is suspected to have been compromised, report the incident to Information Security Officer and Change the password immediately. 
 
 ## Warranty
 MWSU makes no warranties of any kind, whether expressed or implied, for the service it is providing. MWSU will not be responsible for any damage’s users suffer. This includes loss of data resulting from delays, non-deliveries, mis-deliveries, or service interruptions caused by negligence, errors, or omissions. Use of any information obtained via the Internet is at users’ own risk. MWSU denies any responsibility for the accuracy or quality of information obtained through its services.
 
+## Policy Compliance
+
+Exceptions
+* Any exception to the policy must be approved by the IT Help Desk team in advance.
+
+Non-Compliance
+* An employee found to have violated this policy may be subject to disciplinary action, up to and including termination of employment.
+A student found to have violated this policy may be subject to disciplonary action, up to suspension.
+
 ## Questions
-Questions or concerns regarding the Password Construction Guidelines should be directed to the MWSU Information Technology Director.
+Questions or concerns regarding the Password Construction Guidelines should be directed to the  Dr.Joseph Kendall-Morwick and Mr. Greg Lawson.
 
 
 
