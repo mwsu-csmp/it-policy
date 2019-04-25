@@ -60,7 +60,7 @@ Access to root or administrative privileges on Phonix machines is controlled by 
 * Staff and students who leave the university and who have had university software (and/or data) installed on computers owned by them, must remove all such software and data immediately.
 ## Policy Compliance
 ### Exceptions
-Any exception to the policy must be approved by the IT Help Desk team in advance.
+* Any exception to the policy must be approved by the IT Help Desk team in advance.
 ### Non-Compliance
 * An employee found to have violated this policy may be subject to disciplinary action, up to and
 including termination of employment.
