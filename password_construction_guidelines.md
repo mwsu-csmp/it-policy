@@ -39,7 +39,6 @@ This scope of this policy includes all personnel who have or are responsible for
 MWSU makes no warranties of any kind, whether expressed or implied, for the service it is providing. MWSU will not be responsible for any damage’s users suffer. This includes loss of data resulting from delays, non-deliveries, mis-deliveries, or service interruptions caused by negligence, errors, or omissions. Use of any information obtained via the Internet is at users’ own risk. MWSU denies any responsibility for the accuracy or quality of information obtained through its services.
 
 ## Policy Compliance
-
 Exceptions
 * Any exception to the policy must be approved by the IT Help Desk team in advance.
 
