@@ -3,11 +3,12 @@
 ## Overview
 Missouri western state university has made a significant investment in computer and communications technology to promote and support the exchange of information, both within the university and between the university and the rest of the world. MWSU Shall not be held liable for the actions of users when those actions are inconsistent with this guideline. The guideline provides best practices for creating secure passwords. 
 ## Purpose
-The purpose of this guidelines is to establish a standard for the creation of strong passwords, the protection of those passwords, and the frequency of changeon Phonix Lab computing devices. 
+The purpose of this guidelines is to establish a standard for the creation of strong passwords, the protection of those passwords, and the frequency of change on Phonix Lab computing devices. 
 ## Scope
-This scope of this policy includes all personnel who have or are responsible for an account (or any form of access that supports or requires a password) on any system that resides at any MWSU facility, has access to MWSU network and services. To minimize the risk of loss of program functionality, the exposure of sensitive information contained within Missouri Western State University computing network.
+This scope of this policy includes all personnel who have or are responsible for an account (or any form of access that supports or requires a password) on any system that resides at any MWSU facility, has access to Phoneix Lab network and services. To minimize the risk of loss of program functionality, the exposure of sensitive information contained within Missouri Western State University computing network.
 
 ## Guidelines 
+
 ## General
 * All System-level password (e.g. system passwords, root, switch/server login passwords) must be changed at least 60 days.
 * All System-level password must be stored in secured and encrypted database.
@@ -36,9 +37,10 @@ This scope of this policy includes all personnel who have or are responsible for
 * If an account password is suspected to have been compromised, report the incident to Information Security Officer and Change the password immediately. 
 
 ## Warranty
-MWSU makes no warranties of any kind, whether expressed or implied, for the service it is providing. MWSU will not be responsible for any damage’s users suffer. This includes loss of data resulting from delays, non-deliveries, mis-deliveries, or service interruptions caused by negligence, errors, or omissions. Use of any information obtained via the Internet is at users’ own risk. MWSU denies any responsibility for the accuracy or quality of information obtained through its services.
+MWSU & Phoneix Lab makes no warranties of any kind, whether expressed or implied, for the service it is providing. MWSU & Phoneix Lab will not be responsible for any damage’s users suffer. This includes loss of data resulting from delays, non-deliveries, mis-deliveries, or service interruptions caused by negligence, errors, or omissions. Use of any information obtained via the Internet is at users’ own risk. MWSU & Phoneix Lab denies any responsibility for the accuracy or quality of information obtained through its services.
 
 ## Policy Compliance
+
 ## Exceptions
 * Exceptions may be granted in cases where security risks are mitigated by alternative methods, or in cases where security risks are at a low, acceptable level and compliance with minimum security requirements would interfere with legitimate academic or business needs. Any exception to the policy must be approved by Dr.Joseph Kendall-Morwick and Mr. Greg Lawson in advance.
 
