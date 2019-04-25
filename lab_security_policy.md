@@ -15,11 +15,11 @@ Misssouri Western state University owned and managed labs.
 ## Policy
 ### General Requirements
 #### Acceptable Use Policy
-•	Priority use of lab computing equipment is for academic rather than recreational purposes. If you are asked to relinquish use for this reason, your compliance is expected and appreciated.
-•	Computing at MWSU is a community enterprise serving academic, administrative and research needs. Please conserve resources by carefully managing your e-mail, data, web files, and printing.
-•	Users will respect copyright, slander, libel, anti-discrimination and other appropriate laws as well as the security and proper functioning of the campus network.
-•	MWSU is committed to privacy and will not routinely inspect the contents of your computer files.
-•	MWSU provides uncensored access to materials on the campus network or the Internet unless those materials violate federal or state laws.
+* Priority use of lab computing equipment is for academic rather than recreational purposes. If you are asked to relinquish use for this reason, your compliance is expected and appreciated.
+* Computing at MWSU is a community enterprise serving academic, administrative and research needs. Please conserve resources by carefully managing your e-mail, data, web files, and printing.
+* Users will respect copyright, slander, libel, anti-discrimination and other appropriate laws as well as the security and proper functioning of the campus network.
+* MWSU is committed to privacy and will not routinely inspect the contents of your computer files.
+* MWSU provides uncensored access to materials on the campus network or the Internet unless those materials violate federal or state laws.
 
 
 
