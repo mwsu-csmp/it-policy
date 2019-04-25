@@ -7,7 +7,7 @@ See Purpose.
 This policy is intended to ensure the Phoneix computer lab provide computer equipment in a secure, respectful environment to help MWSU students, faculty and staff be productive. By minimizing the exposure of critical infrastructure and information assets to threats that may result from unprotected hosts and unauthorized access.
 
 ## Scope
-This policy applies to all students,instructors faculty and other workers at Missouri Western State University and its subsidiaries must adhere to this policy. This policy applies to Missouri Western state University owned and managed labs.
+This policy applies to all students,instructors faculty and other workers at Missouri Western State University and its subsidiaries must adhere to this policy. This policy applies to Phoneix Lab AS OF NOW<owned and managed by MWSU >.
 
 ## Policy
 ### General Requirements
