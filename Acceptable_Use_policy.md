@@ -21,15 +21,15 @@ All information technology resources, including computer networks, equipment and
 *	It is necessary to comply with or verify compliance with Federal or State law including e-discovery procedures; or
 *	If it will serve a legitimate business need of the University.
 
-#### Acceptable Use Guidelines
+### Acceptable Use Guidelines
 
-##### Responsibilities of Users of University Computer Resources: 
+#### Responsibilities of Users of University Computer Resources: 
 *	Respect the intellectual property rights of authors, contributors, and publishers in all media.
 *	Protect user ID, password, and system from unauthorized use.
 *	Adhere to the terms of software licenses and other contracts. Persons loading software on any University computer must adhere to all licensing requirements for the software. Except where allowed by University site licenses, copying software licensed for University use for personal use is a violation of this policy.
 *	Use University computer resources in a manner that is compliant with University policies and State and Federal law.
 
-##### Prohibited Uses of University Computer Resources: 
+#### Prohibited Uses of University Computer Resources: 
 *	Unauthorized or excessive personal use. Use may be excessive if it overburdens a network, results in substantial use of system capacity, or otherwise subjects the institution to increased costs or risks (employees additionally may be subject to discipline for unauthorized or excessive personal use of computer resources.)
 *	Uses that interfere with the proper functioning of the University’s information technology resources.
 *	Uses that unreasonably interfere with the ability of others to make use of University computer resources.
