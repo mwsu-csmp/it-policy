@@ -14,29 +14,12 @@ Misssouri Western state University owned and managed labs.
 
 ## Policy
 ### General Requirements
-##### Acceptable Use Policy
-###### University Inspection of Personal Electronic Information
-All information technology resources, including computer networks, equipment and connected resources, provided by the Missouri Western State University are the property of the University.  The University values the principles of academic freedom and privacy and does not condone casual inspection of the information contained within or transmitted via these resources.  However, electronic information on University networks or equipment, including, but not limited to, electronic mail and personal information, is subject to examination by the University where: 
-
-* It is necessary to maintain or improve the functioning of University computing resources;
-* There is a suspicion of misconduct under University policies, or suspicion of violation of Federal or State laws; 
-*	It is necessary to comply with or verify compliance with Federal or State law including e-discovery procedures; or
-*	If it will serve a legitimate business need of the University.
-
-###### Acceptable Use Guidelines 
-###### Responsibilities of Users of University Computer Resources: 
-*	Respect the intellectual property rights of authors, contributors, and publishers in all media.
-*	Protect user ID, password, and system from unauthorized use.
-*	Adhere to the terms of software licenses and other contracts. Persons loading software on any University computer must adhere to all licensing requirements for the software. Except where allowed by University site licenses, copying software licensed for University use for personal use is a violation of this policy.
-*	Use University computer resources in a manner that is compliant with University policies and State and Federal law.
-
-###### Prohibited Uses of University Computer Resources: 
-*	Unauthorized or excessive personal use. Use may be excessive if it overburdens a network, results in substantial use of system capacity, or otherwise subjects the institution to increased costs or risks (employees additionally may be subject to discipline for unauthorized or excessive personal use of computer resources.)
-*	Uses that interfere with the proper functioning of the University’s information technology resources.
-*	Uses that unreasonably interfere with the ability of others to make use of University computer resources.
-*	Attempting to gain or gaining unauthorized access to the computer system, or files of another.
-*	Use of University computer resources to infringe the intellectual property rights of others.
-
+#### Acceptable Use Policy
+•	Priority use of lab computing equipment is for academic rather than recreational purposes. If you are asked to relinquish use for this reason, your compliance is expected and appreciated.
+•	Computing at MWSU is a community enterprise serving academic, administrative and research needs. Please conserve resources by carefully managing your e-mail, data, web files, and printing.
+•	Users will respect copyright, slander, libel, anti-discrimination and other appropriate laws as well as the security and proper functioning of the campus network.
+•	MWSU is committed to privacy and will not routinely inspect the contents of your computer files.
+•	MWSU provides uncensored access to materials on the campus network or the Internet unless those materials violate federal or state laws.
 
 
 
