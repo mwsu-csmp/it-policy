@@ -39,15 +39,14 @@ This scope of this policy includes all personnel who have or are responsible for
 MWSU makes no warranties of any kind, whether expressed or implied, for the service it is providing. MWSU will not be responsible for any damage’s users suffer. This includes loss of data resulting from delays, non-deliveries, mis-deliveries, or service interruptions caused by negligence, errors, or omissions. Use of any information obtained via the Internet is at users’ own risk. MWSU denies any responsibility for the accuracy or quality of information obtained through its services.
 
 ## Policy Compliance
-Exceptions
-* Any exception to the policy must be approved by the IT Help Desk team in advance.
+## Exceptions
+* Exceptions may be granted in cases where security risks are mitigated by alternative methods, or in cases where security risks are at a low, acceptable level and compliance with minimum security requirements would interfere with legitimate academic or business needs. Any exception to the policy must be approved by Dr.Joseph Kendall-Morwick and Mr. Greg Lawson in advance.
 
-Non-Compliance
-* An employee found to have violated this policy may be subject to disciplinary action, up to and including termination of employment.
-A student found to have violated this policy may be subject to disciplonary action, up to suspension.
+## Non-Compliance
+* Non-compliance with these standards may incur the same types of disciplinary measures and consequences as violations of other policies, including progressive discipline up to and including termination of employment, or, in the cases where students are involved, reporting of a Student Code of Conduct violation.  An employee found to have violated this policy may be subject to disciplinary action, up to and including termination of employment.
 
 ## Questions
-Questions or concerns regarding the Password Construction Guidelines should be directed to the  Dr.Joseph Kendall-Morwick and Mr. Greg Lawson.
+Questions or concerns regarding the Password Construction Guidelines should be directed to the Dr.Joseph Kendall-Morwick and Mr. Greg Lawson.
 
 
 
