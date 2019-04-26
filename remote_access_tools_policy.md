@@ -57,5 +57,5 @@ audits, and feedback to the policy owner.
 ## Exceptions
 Any exception to the policy must be approved in advance.
 ## Non-Compliance
-An employee or student found to have violated this policy may be subject to disciplinary action.
+An employee or student found to have violated this policy or the MWSU user agreement may be subject to disciplinary action.
 
