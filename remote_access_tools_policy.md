@@ -22,7 +22,7 @@ All remote access tools used to communicate with Phoenix Lab systems must comply
 policy requirements.
 
 ### Remote Access Priviliges 
-  - Priviliges for remote access will be assigned to security groups, not individual users.
+  - Privileges for remote access will be assigned to security groups, not individual users.
   - All CSMP faculty user accounts will be members of a security group which allows remote access.
   - Student user accounts will only be assigned to a separate security group for student remote
     access.  
