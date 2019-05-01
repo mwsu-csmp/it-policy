@@ -1,7 +1,7 @@
 # Password Construction Guidelines
 
 ## Overview
-Missouri western state university has made a significant investment in computer and communications technology to promote and support the exchange of information, both within the university and between the university and the rest of the world. MWSU Shall not be held liable for the actions of users when those actions are inconsistent with this guideline. The guideline provides best practices for creating secure passwords. 
+Missouri western state university & CSMP has made a significant investment in Phonix Lab's computer and communications technology to promote and support the exchange of information, both within the university and between the university and the rest of the world. MWSU & CSMP Shall not be held liable for the actions of users when those actions are inconsistent with this guideline. The guideline provides best practices for creating secure passwords. 
 ## Purpose
 The purpose of this guidelines is to establish a standard for the creation of strong passwords, the protection of those passwords, and the frequency of change on Phonix Lab computing devices. 
 ## Scope
